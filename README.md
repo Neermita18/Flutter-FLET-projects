@@ -9,6 +9,8 @@
  Took a good while to finish this. Learnt usage of event handlers.
 
 ### 4) Greetings application
+Usage of control refs and error handlers
+
 ### 5) Manual User Counter
 User can change counter settings
 
