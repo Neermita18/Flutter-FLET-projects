@@ -7,3 +7,6 @@
 
 ### 3) To-do list app
  Took a good while to finish this. Learnt usage of event handlers.
+
+### 4) Greetings application
+
