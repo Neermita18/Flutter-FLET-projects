@@ -1,6 +1,6 @@
 # Using python to build small applications with FLET
 
-### 1) Bomb Counter
+### 1) Automatic Bomb Counter
  Simple counter application to start off.
 
 ### 2) Trying out Row and Column properties
