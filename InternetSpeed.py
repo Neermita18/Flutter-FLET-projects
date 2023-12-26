@@ -13,8 +13,6 @@ def main(page:ft.Page):
     page.fonts={
         "Evil":"fonts/League.otf",
         "Title":"fonts/Minecrafter.Reg.ttf"
-        
-        
     }
     st = speedtest.Speedtest()
     line0=ft.Text("")
@@ -117,22 +115,8 @@ def main(page:ft.Page):
     page.add(
         appTitle,
         speedcont,
-        ft.IconButton(icon=ft.icons.PLAY_CIRCLE_FILL_OUTLINED, icon_size=50,icon_color=ft.colors.BLUE_100, on_click=pop)
-        
-        
-        
+        ft.IconButton(icon=ft.icons.PLAY_CIRCLE_FILL_OUTLINED, icon_size=50,icon_color=ft.colors.BLUE_100, on_click=pop)  
     )
-    
-    
     page.update()
     
-    
-    
-    
-    
-    
-    
-    
-    
-    pass
 ft.app(target=main)
